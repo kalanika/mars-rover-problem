@@ -5,7 +5,7 @@ Coding Solution for Mars rover Problem using Spring Boot
 
 Installation
 
-** mvn clean install **
+ mvn clean install 
 
 get route : http://localhost:8080/marsrover
 
@@ -19,6 +19,5 @@ json body example
 		
 	},
 	"processcommand":"LMLMLMLMM"
-	
 	
 }
