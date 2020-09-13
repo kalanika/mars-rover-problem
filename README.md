@@ -9,13 +9,13 @@ Installation
 
 get route : http://localhost:8080/marsrover
 
-json body example 
+json body example :
 
 {
 	"position":{
-		"x":null,
+		"x":1,
 		"y":2,
-		"facing":"P"
+		"facing":"N"
 		
 	},
 	"processcommand":"LMLMLMLMM"
